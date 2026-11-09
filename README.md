@@ -22,11 +22,12 @@
 
 - 🎓 **B.Tech CSE** student at **USICT, GGSIPU, New Delhi** (2023–2027)
 - 💼 **AI/ML Intern @ SysMind** *(Apr – Oct 2026)*
-  - 🌐 **Lao ↔ English Neural Machine Translation:** built a bidirectional translation system for a low-resource language; extended the Lao tokenizer vocabulary, improving translation scores by **50%**
+  - **Lao ↔ English Neural Machine Translation:** built a bidirectional translation system for a low-resource language; extended the Lao tokenizer vocabulary, improving translation scores by **50%**
   - 🔗 **Referral & Affiliate System:** integrated an open-source referral system into a SaaS platform, with automated sign-ups, referral links, secure **webhooks** for payment tracking, and modular commissions & payouts
-- ⚡ Love making models production-ready: **ONNX, INT8 quantization, FastAPI, Docker**
-- 🏆 Former **ACM ICPC Club, USICT**: ran DSA bootcamps and coding contests
-- 📫 Reach me at **royprashant3102@gmail.com**
+-  Love making models production-ready: **ONNX, INT8 quantization, FastAPI, Docker**
+-  Former **ACM ICPC Club, USICT**: ran DSA bootcamps and coding contests
+-  Solved **250+ DSA problems** on LeetCode and other platforms
+- 📫Reach me at **royprashant3102@gmail.com**
 
 ---
 

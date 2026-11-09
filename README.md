@@ -84,14 +84,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=royprashant3102-pixel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=royprashant3102-pixel&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=royprashant3102-pixel&theme=tokyonight&hide_border=true" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 </p>
-
 ---
 
 ### 🐍 Contribution Snake

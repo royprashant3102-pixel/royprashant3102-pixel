@@ -9,10 +9,9 @@
 </p>
 
 <p align="center">
-  <!-- Replace YOUR-LINKEDIN and YOUR-LEETCODE with your usernames -->
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/YOUR-LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-    <a href="mailto:royprashant3102@gmail.com"><img src="https://img.shields.io/badge/Email-royprashant3102%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:royprashant3102@gmail.com"><img src="https://img.shields.io/badge/Email-royprashant3102%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=royprashant3102-pixel&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" />
 </p>
 
@@ -22,12 +21,12 @@
 
 - 🎓 **B.Tech CSE** student at **USICT, GGSIPU, New Delhi** (2023–2027)
 - 💼 **AI/ML Intern @ SysMind** *(Apr – Oct 2026)*
-  - **Lao ↔ English Neural Machine Translation:** built a bidirectional translation system for a low-resource language; extended the Lao tokenizer vocabulary, improving translation scores by **50%**
+  - 🌐 **Lao ↔ English Neural Machine Translation:** built a bidirectional translation system for a low-resource language; extended the Lao tokenizer vocabulary, improving translation scores by **50%**
   - 🔗 **Referral & Affiliate System:** integrated an open-source referral system into a SaaS platform, with automated sign-ups, referral links, secure **webhooks** for payment tracking, and modular commissions & payouts
--  Love making models production-ready: **ONNX, INT8 quantization, FastAPI, Docker**
--  Former **ACM ICPC Club, USICT**: ran DSA bootcamps and coding contests
--  Solved **250+ DSA problems** on LeetCode and other platforms
-- 📫Reach me at **royprashant3102@gmail.com**
+- ⚡ Love making models production-ready: **ONNX, INT8 quantization, FastAPI, Docker**
+- 🏆 Former **ACM ICPC Club, USICT**: ran DSA bootcamps and coding contests
+- 🧩 Solved **250+ DSA problems** on LeetCode and other platforms
+- 📫 Reach me at **royprashant3102@gmail.com**
 
 ---
 
@@ -78,25 +77,18 @@
 - Data pipeline to clean, tokenize and align parallel text
 - Fine-tuned transformers in both directions; evaluated with **BLEU, chrF, chrF++**
 
-<!-- Add links to repos / live demos, e.g. [Live](https://...) · [Code](https://github.com/royprashant3102-pixel/repo-name) -->
+
 
 ---
 
-### 📊 GitHub Stats
+### 👻 Contribution Pac-Man
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
-</p>
-<p align="center">
-  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
-  <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
-</p>
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/royprashant3102-pixel/royprashant3102-pixel/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/royprashant3102-pixel/royprashant3102-pixel/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/royprashant3102-pixel/royprashant3102-pixel/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/royprashant3102-pixel/royprashant3102-pixel/output/pacman-contribution-graph.svg">
+</picture>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />

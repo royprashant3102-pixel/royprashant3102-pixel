@@ -72,13 +72,6 @@
 - Private polls secured with **128-bit share tokens** and 404-not-403 responses
 - JWT auth with bcrypt hashing and role-based admin overrides
 
-#### 🌐 Lao ↔ English Neural Machine Translation *(SysMind)*
-`PyTorch` `Hugging Face Transformers`
-- Data pipeline to clean, tokenize and align parallel text
-- Fine-tuned transformers in both directions; evaluated with **BLEU, chrF, chrF++**
-
-
-
 ---
 
 ### 👻 Contribution Pac-Man

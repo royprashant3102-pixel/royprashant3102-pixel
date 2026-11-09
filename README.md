@@ -97,7 +97,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/royprashant3102-pixel/github_portfolio/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/royprashant3102-pixel/royprashant3102-pixel/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
